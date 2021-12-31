@@ -1,1 +1,1 @@
-# Microsoft SQL Server Management Studio 18 is usen
+Microsoft SQL Server Management Studio 18 is usen
